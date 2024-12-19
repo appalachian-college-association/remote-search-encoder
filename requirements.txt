@@ -1,0 +1,10 @@
+# Core web framework
+flask==2.3.3
+werkzeug==2.3.7
+
+# URL validation
+validators==0.20.0
+# Production WSGI server
+gunicorn==21.2.0
+# Security packages
+python-dotenv==1.0.0
